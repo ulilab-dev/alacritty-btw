@@ -1,13 +1,14 @@
 [window]
 dimensions = { columns = 100, lines = 28 }
 
-decorations = "None"
+# decorations(Full, Transparent, Buttonless, None)
+decorations = "Full"
 padding = { x = 10, y = 10 }
 opacity = 0.9
 
 [font]
 normal = { family = "JetBrains Mono NF", style = "Regular" }
-size = 12.0
+size = 10.0
 
 [cursor]
 # Block, Underline, Beam
