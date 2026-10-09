@@ -11,7 +11,7 @@ size = 12.0
 
 [cursor]
 # Block, Underline, Beam
-style = { shape = "Beam", blinking = "Never" }
+style = { shape = "Block", blinking = "Never" }
 
 [colors]
 [colors.primary]
